@@ -91,46 +91,39 @@ The virtual machine detected only one NUMA node, so only local NUMA memory acces
 
 ### 1. VMware and Ubuntu Setup
 
-![VMware Ubuntu Setup](<img width="920" height="1016" alt="01_ubuntu_setting" src="https://github.com/user-attachments/assets/fe54463e-c64a-4f65-96cd-90110e4a7b63" />
-)
+<img src="https://github.com/user-attachments/assets/fe54463e-c64a-4f65-96cd-90110e4a7b63" alt="VMware Ubuntu Setup" width="700">
 
-![Ubuntu Desktop](<img width="1280" height="760" alt="02_Ubuntu_Desktop png" src="https://github.com/user-attachments/assets/7a5c50fb-8271-45d2-b9e0-bb6ee51fa052" />
-)
+<img src="https://github.com/user-attachments/assets/7a5c50fb-8271-45d2-b9e0-bb6ee51fa052" alt="Ubuntu Desktop" width="700">
 
 ### 2. Software Installation and Verification
 
-![Software Installation](<img width="707" height="561" alt="03_Software_Installation png" src="https://github.com/user-attachments/assets/be3f3f69-e92f-48c4-8e40-7e9a84222aab" />
-)
+<img src="https://github.com/user-attachments/assets/be3f3f69-e92f-48c4-8e40-7e9a84222aab" alt="Software Installation" width="700">
 
-![GCC and OpenMP Verification](<img width="710" height="546" alt="04_GCC_OpenMP_Verification png" src="https://github.com/user-attachments/assets/709a4a3c-4c6e-4b89-8862-672daa36c4b3" />
-)
+<img src="https://github.com/user-attachments/assets/709a4a3c-4c6e-4b89-8862-672daa36c4b3" alt="GCC and OpenMP Verification" width="700">
 
 ### 3. NUMA Hardware Information
 
-![NUMA Topology](<img width="1102" height="385" alt="05_NUMA_Topology png" src="https://github.com/user-attachments/assets/43d1410a-06b8-4950-93f1-417d478313d1" />
-)
+<img src="https://github.com/user-attachments/assets/43d1410a-06b8-4950-93f1-417d478313d1" alt="NUMA Topology" width="700">
 
 ### 4. Cache Coherence Simulation
 
-![MSI MESI MOESI](<img width="1281" height="753" alt="06_MSI_MESI_MOESI png" src="https://github.com/user-attachments/assets/7d49b430-2590-45e6-9de0-b5522f278e03" />
-<img width="1250" height="753" alt="07_MSI_MESI_MOESI png" src="https://github.com/user-attachments/assets/32cf2f1e-7fac-46f6-88b0-b25af732678f" />
-<img width="1281" height="760" alt="08_MSI_MESI_MOESI png" src="https://github.com/user-attachments/assets/900b9b65-79ca-426a-b108-9a3ca83f984d" />
+<img src="https://github.com/user-attachments/assets/7d49b430-2590-45e6-9de0-b5522f278e03" alt="MSI MESI MOESI Screenshot 1" width="700">
 
-)
+<img src="https://github.com/user-attachments/assets/32cf2f1e-7fac-46f6-88b0-b25af732678f" alt="MSI MESI MOESI Screenshot 2" width="700">
+
+<img src="https://github.com/user-attachments/assets/900b9b65-79ca-426a-b108-9a3ca83f984d" alt="MSI MESI MOESI Screenshot 3" width="700">
 
 ### 5. False Sharing Experiment
 
-![False Sharing](<img width="1267" height="742" alt="09_False_Sharing png" src="https://github.com/user-attachments/assets/40dff23b-228e-4494-bb28-6a5622e7ded2" />)
+<img src="https://github.com/user-attachments/assets/40dff23b-228e-4494-bb28-6a5622e7ded2" alt="False Sharing" width="700">
 
-### 6. Compilation
+### 6. Program Compilation
 
-![Program Compilation](<img width="1181" height="295" alt="10_Program_Compilation png" src="https://github.com/user-attachments/assets/4903c63b-5fa3-4c5d-bed3-7b55992a95d7" />
-)
+<img src="https://github.com/user-attachments/assets/4903c63b-5fa3-4c5d-bed3-7b55992a95d7" alt="Program Compilation" width="700">
 
 ### 7. Performance Comparison
 
-![Comparison Results](<img width="921" height="381" alt="11_Comparison_Results png" src="https://github.com/user-attachments/assets/ef743603-b1a5-4213-989b-4632638ce9cf" />
-)
+<img src="https://github.com/user-attachments/assets/ef743603-b1a5-4213-989b-4632638ce9cf" alt="Comparison Results" width="700">
 
 ## 8. Conclusion
 
